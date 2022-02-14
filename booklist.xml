@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<bookstore >
+  <book >
+    <title>The Best Book</title>
+    <price>19.99</price>
+  </book>
+  <book>
+    <title>The Book Of Books</title>
+    <price>100.5</price>
+  </book>
+  <book>
+    <title>The Cheap Book</title>
+    <price>5.00</price>
+  </book>
+</bookstore>
